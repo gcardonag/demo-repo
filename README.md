@@ -11,7 +11,7 @@ This is an example readme
 4. list
 
 ## Documentation!
-### Sub-Section is here
+### Sub-Section is bad stuff here
 :)
 
 Another message
