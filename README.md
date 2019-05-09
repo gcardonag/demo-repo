@@ -1,5 +1,5 @@
-# Hey Everyone
-This is an example readme
+# Hey Slalom
+This is Ben's example readme with changes
 * Here
 * are
 * some
@@ -13,5 +13,3 @@ This is an example readme
 ## Documentation!
 ### Sub-Section is here
 :)
-
-Another message
